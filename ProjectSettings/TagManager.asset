@@ -9,6 +9,10 @@ TagManager:
   - KeyDoor
   - staticBomb
   - Enemy
+  - Reginald
+  - Ygrid
+  - Father
+  - Vi
   layers:
   - Default
   - TransparentFX
