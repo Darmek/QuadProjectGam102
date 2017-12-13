@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05e36c3dfb6817e41a38bcab2b3598d8, type: 3}
+  m_Name: Script2
+  m_EditorClassIdentifier: 
+  script:
+  - 'Reginald: Glad you made it My lady. today we''ll be going over history.'
+  - 'Arana: History is boring! It''s hours of reading. I have people to do these things
+    for me'
+  - 'Reginald: My lady, think of it how you want, but I need to see to it that you
+    learn. Either you learn from it, or you''re doomed to repeat it. Now, tell me
+    the importance of these walls we live in.'
+  - 'Arana: Ugh, the walls were built to protect out people during the times of darkness.
+    After the last war, my grandfather lead everyone to safety. Under his generour
+    rule, my family became renowned by everyone.'
+  - 'Reginald: Yes very good. I think you''ve earned yourself a little break before
+    we start today''s lessons.'
