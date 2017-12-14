@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour {
     private Animator anim;
     private Rigidbody2D myRigidbody;
 
-    private bool playerMoving;
+    public bool playerMoving;
     public Vector2 lastMove;
 
     private static bool playerExists;
@@ -27,9 +27,12 @@ public class PlayerController : MonoBehaviour {
 
     public GameObject setBomb;
 
+    public bool leaveCastle;
+
 	// Use this for initialization
 	void Start () {
 
+        leaveCastle = false;
         anim = GetComponent<Animator>();
         myRigidbody = GetComponent<Rigidbody2D>();
 

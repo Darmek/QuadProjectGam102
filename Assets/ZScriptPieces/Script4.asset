@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05e36c3dfb6817e41a38bcab2b3598d8, type: 3}
+  m_Name: Script4
+  m_EditorClassIdentifier: 
+  script:
+  - 'Arana: Guards! Theres is an Intru-'
+  - 'Intruder: Shusshh. No noises, we wouldn''t want you to get hurt would we?'
+  - The intruder turns a knife over in her hands
+  - 'Intruder: My name is Vi, and you''re going to listen to what i have to say, I
+    don''t think either of us want anyone to get hurt.'
+  - You nod your head
+  - 'Vi: Life is a little... different outside the walls, you know? Your family and
+    their followers throw their trash into our homes. We have to scavenge it just
+    to live.'
+  - 'Arana: That''s simply not true! Father has taught me-'
+  - Vi presses the blade up to your lips and bursts into laughter
+  - 'Vi: Hahaha! They''re feeding you lies! Your family isn''t as kind and noble as
+    they''ve led you to believe.'
+  - 'Arana: But... that doesn''t make any sense...'
+  - 'Vi: Few things ever do. But I''m not here to teach you, I''m going to have you
+    take me to your dungeon in the mansion.'
+  - 'Arana: What? A dungeon? Our home doesn''t have something like that.'
+  - 'Vi: Of course it does. Your family has been keeping some dark dark secrets from
+    you. Why not snoop around a little bit and see what you can find...'
+  - 'Vi: I''ll meet you in the dungeon.'

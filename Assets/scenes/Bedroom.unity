@@ -409,18 +409,48 @@ Prefab:
     - target: {fileID: 224377458551323384, guid: 0011801ab5936d34e8d53caae01caaad,
         type: 2}
       propertyPath: m_LocalPosition.x
-      value: 35.75
+      value: 44.708336
       objectReference: {fileID: 0}
     - target: {fileID: 224377458551323384, guid: 0011801ab5936d34e8d53caae01caaad,
         type: 2}
       propertyPath: m_LocalPosition.y
-      value: 32.791668
+      value: 32.833336
       objectReference: {fileID: 0}
     - target: {fileID: 114912065613593350, guid: 0011801ab5936d34e8d53caae01caaad,
         type: 2}
       propertyPath: script2
       value: 
       objectReference: {fileID: 11400000, guid: ef072fdf9fd1b7d47be0148ba2594a5a,
+        type: 2}
+    - target: {fileID: 114912065613593350, guid: 0011801ab5936d34e8d53caae01caaad,
+        type: 2}
+      propertyPath: script3
+      value: 
+      objectReference: {fileID: 11400000, guid: cf0febd05c73aa247bc70329a4adf93c,
+        type: 2}
+    - target: {fileID: 114912065613593350, guid: 0011801ab5936d34e8d53caae01caaad,
+        type: 2}
+      propertyPath: script4
+      value: 
+      objectReference: {fileID: 11400000, guid: 19baa7107733e6f489b58c721d88bd66,
+        type: 2}
+    - target: {fileID: 114912065613593350, guid: 0011801ab5936d34e8d53caae01caaad,
+        type: 2}
+      propertyPath: rebel
+      value: 
+      objectReference: {fileID: 1227464749008552, guid: 7cce9b9829e264c4b877ee9527d7ae8c,
+        type: 2}
+    - target: {fileID: 114912065613593350, guid: 0011801ab5936d34e8d53caae01caaad,
+        type: 2}
+      propertyPath: reginald
+      value: 
+      objectReference: {fileID: 1449616146621760, guid: 24ab219a235d2ce42b2b08888dd7fb3b,
+        type: 2}
+    - target: {fileID: 114912065613593350, guid: 0011801ab5936d34e8d53caae01caaad,
+        type: 2}
+      propertyPath: script5
+      value: 
+      objectReference: {fileID: 11400000, guid: f96fb21ebd570bf468f56c83637fcf6f,
         type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0011801ab5936d34e8d53caae01caaad, type: 2}

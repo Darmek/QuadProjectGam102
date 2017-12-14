@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05e36c3dfb6817e41a38bcab2b3598d8, type: 3}
+  m_Name: Script5
+  m_EditorClassIdentifier: 
+  script:
+  - 'Arana: Father! What is going on here?! I didn''t want to believe this...'
+  - 'Father: Arana? What are you doing down here? Go back upstairs this instant.'
+  - 'Arana: Not until you tell me what''s going on! I thought we accepted everyone
+    inside these walls!'
+  - 'Father: Arana dear, you can''t expect us to accept everyone... These people are
+    just tools for us to learn from.'
+  - Arana clutches her mouth as she see's the man on the table
+  - 'Vi: See Arana, I told you this is the harsh reality you live in. You family culls
+    and experiments on people like me.'
+  - 'Father: LIES! Arana do not listen to her! GUARDS! Where are my guards?!'
+  - Vi laughs, and your father reels away
+  - 'Vi: Your guards won''t be coming. And you will pay for the things you have done.'
+  - Vi stabs her blade into your father, he keels over on the floor clutching his
+    stomache. His hand reaches out to you
+  - 'Father: A-Arana...'
+  - 'Vi: Arana theres countless others just like your father. I''m sorry you had to
+    go through this but now you have an option.'
+  - 'Vi: You can either live your life out here in your fathers collapsing empire,
+    Or come and join me and the rebellion.'

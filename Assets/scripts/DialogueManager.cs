@@ -14,6 +14,7 @@ public class DialogueManager : MonoBehaviour {
 	void Update () {
 		if (dActive && Input.GetKeyDown(KeyCode.Space))
         {
+            GetComponentInParent<Rigidbody2D>().constraints = ~RigidbodyConstraints2D.FreezePosition;
             GetComponentInParent<PlayerController>().enabled = true;
             dBox.SetActive(false);
             dActive = false;
@@ -27,6 +28,7 @@ public class DialogueManager : MonoBehaviour {
         dActive = true;
         dBox.SetActive(true);
         dText.text = dialogue;
+        GetComponentInParent<Rigidbody2D>().constraints = RigidbodyConstraints2D.FreezePosition;
         GetComponentInParent<PlayerController>().enabled = false;
     }
 }

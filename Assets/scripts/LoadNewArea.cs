@@ -27,11 +27,23 @@ public class LoadNewArea : MonoBehaviour
     {
         if (other.gameObject.tag == "Player")
         {
-            Application.LoadLevel(levelToLoad);
-            thePlayer.startPoint = exitPoint;
+            if (levelToLoad == "MapTest")
+            {
+                if(!other.gameObject.GetComponent<PlayerController>().leaveCastle)
+                    other.gameObject.GetComponentInChildren<DialogueManager>().ShowBox("You cannot leave until you meet with your tutor");
+                else
+                {
+                    Application.LoadLevel(levelToLoad);
+                    thePlayer.startPoint = exitPoint;
+                }
+
+            }
+            else{
+                Application.LoadLevel(levelToLoad);
+                thePlayer.startPoint = exitPoint;
+            }
+            
         }
-
-
     }
 }
 
