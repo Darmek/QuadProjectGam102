@@ -216,7 +216,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 723bc0b159467c44a82d898d44b564cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene: {fileID: 114912065613593350, guid: 0011801ab5936d34e8d53caae01caaad, type: 2}
 --- !u!212 &93029220
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -613,6 +612,36 @@ Prefab:
       value: 1487550325
       objectReference: {fileID: 0}
     - target: {fileID: 23646861428548888, guid: 6c34bc39518811a42b4cc256e59ce796,
+        type: 2}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 23385617826264642, guid: 6c34bc39518811a42b4cc256e59ce796,
+        type: 2}
+      propertyPath: m_SortingLayerID
+      value: 552042669
+      objectReference: {fileID: 0}
+    - target: {fileID: 23385617826264642, guid: 6c34bc39518811a42b4cc256e59ce796,
+        type: 2}
+      propertyPath: m_SortingLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 23048049968791884, guid: 6c34bc39518811a42b4cc256e59ce796,
+        type: 2}
+      propertyPath: m_SortingLayerID
+      value: 552042669
+      objectReference: {fileID: 0}
+    - target: {fileID: 23048049968791884, guid: 6c34bc39518811a42b4cc256e59ce796,
+        type: 2}
+      propertyPath: m_SortingLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 23109864643775498, guid: 6c34bc39518811a42b4cc256e59ce796,
+        type: 2}
+      propertyPath: m_SortingLayerID
+      value: 1487550325
+      objectReference: {fileID: 0}
+    - target: {fileID: 23109864643775498, guid: 6c34bc39518811a42b4cc256e59ce796,
         type: 2}
       propertyPath: m_SortingLayer
       value: 3
